@@ -27,9 +27,6 @@ public class Main {
 )
    }
 }
-//Now you have made a basic java program I hope you enjoy this
-// Ps See if your friends can crack the code
-// :))))))
 =========================================================
 
 
